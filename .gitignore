@@ -1,0 +1,8 @@
+/target
+.classpath
+.gitattributes
+.project
+*.class
+*.prefs
+*.iml
+.DS_Store
